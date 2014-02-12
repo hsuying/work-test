@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">helloAndroid</string>
+    <string name="welcomeText">Hello World!!!</string>
+    <string name="logoDescription">Android Logo</string>
+    <string name="fakeWarning">Warning! Don\'t touch the droid...</string>
+</resources>
